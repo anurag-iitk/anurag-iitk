@@ -57,9 +57,8 @@
 </tr>
 </table>
 <!--- stats (end) -->
-<p align="center">
+
 ![profile-detail](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=anurag-iitk&theme=github_dark)
-</p>
 
 <!--- trophy (start) -->
 <div align=center>
