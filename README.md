@@ -64,11 +64,10 @@
       <img align="center" width=84% src="https://github-profile-trophy.vercel.app/?username=anurag-iitk&theme=radical&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" alt="TROPHY" />
     </a>
 </div>
-<!--- trophy (start) -->
-
-
 </p>        
 <!--- stats (end) -->
+
+![](https://github-contributor-stats.vercel.app/api?username=anurag-iitk&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
 
 
 <!--h1 without bottom border-->
@@ -104,10 +103,6 @@
   <a href="https://www.reddit.com/user/AffectionateRock6947/" target="blank"><img src="https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white" alt="reddit" height="50" width="100" /></a>
   <a href="https://stackoverflow.com/users/23565655/anurag" target="blank"><img src="https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white" alt="stack-overflow" height="50" width="100" /></a>
 </p>
-
-[![](https://raw.githubusercontent.com/anurag-iitk/github-profile-summary/master/profile-summary-card-output/github_dark/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) 
-
-
 
 <!--profile visit count-->
 <div align="center">
