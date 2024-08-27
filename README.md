@@ -105,6 +105,8 @@
   <a href="https://stackoverflow.com/users/23565655/anurag" target="blank"><img src="https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white" alt="stack-overflow" height="50" width="100" /></a>
 </p>
 
+[![](https://raw.githubusercontent.com/anurag-iitk/github-profile-summary/master/profile-summary-card-output/github_dark/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) 
+
 
 
 <!--profile visit count-->
