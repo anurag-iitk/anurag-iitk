@@ -84,6 +84,7 @@
 </p>
 
 ![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://github-readme-activity-graph.vercel.app/graph?username=anurag-iitk&theme=react-dark&hide_border=true&area=true)
+![profile-detail](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=anurag-iitk&theme=github_dark)
 
 
 <!-- Connect with me -->
