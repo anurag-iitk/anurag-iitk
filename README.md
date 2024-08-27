@@ -83,6 +83,8 @@
   </a>
 </p>
 
+![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://github-readme-activity-graph.vercel.app/graph?username=anurag-iitk&theme=react-dark&hide_border=true&area=true)
+
 
 <!-- Connect with me -->
 <!--h2 without bottom border-->
