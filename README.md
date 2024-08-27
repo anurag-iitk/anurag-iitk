@@ -9,14 +9,6 @@
   </ul>
 </div>
 
-
-<!--- snake -->
-<div align="center">
-  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/readme/resources/img/grid-snake.svg"
-       alt="snake" /></a>
-</div>
-
-
 <!--h2 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
@@ -26,18 +18,24 @@
 
 
 <!--Intro start-->
-- 🔭 I’m currently working on **Cryptography, Golang, Rust, Nodejs, Django, Python, TypeScript, Redis, RabbitMQ, WebSocket, GraphQL, MongoDB, SQL, ScyllaDB, React.js, Next.js, Redux, Angular, Tailwind CSS**
+- 🔭 I’m currently working on **Cryptography, Golang, Rust, Python, TypeScript, Docker, Kubernetes, Ansible, Nodejs, Django, Redis, RabbitMQ, WebSocket, GraphQL, SQL, MongoDB, ScyllaDB, React.js, Next.js, Redux, Angular, Tailwind CSS**
 
-- 🌱 I’m currently learning **to put together multiple Hyper Beast Stack for Scalable Applications.**
+- 👯 I’m looking to collaborate on **Innovative projects that push the boundaries of technology, particularly in areas like blockchain, distributed systems, and AI**
 
-- ☁️ I've keen interest Blockchain. So,I'm learning **Ethereum, Hyperledger Fabric, Besu, Qruorum, Polygon, Polkadot**
+- 🤝 I’m looking for help with: **Advanced cryptography, decentralized identity verification systems, and optimizing scalability in microservices and event-driven architectures**
+  
+- 🌱 I’m currently learning: **How to integrate and scale multiple Hyper Beast Stacks for high-performance, scalable applications**
 
-- 💬 Ask me about **Blockchain, Post Quantum Cryptography, Machine Learning**
+- 💬 Ask me about **Distributed Ledger Technology, Post-Quantum Cryptography, Machine Learning, and building highly scalable applications**
 
-- 📫 Feel free to reach me out **iamanuragsaini0@gmail.com**
-- 
+- ☁️ I've keen interest in **Blockchain and emerging technologies like IoT, AI, and how they can be integrated into real-world solutions**
+
+- ⚡ Fun fact **I enjoy dissecting complex systems to uncover hidden efficiencies, both in code and in life**
+
+- 📫 Feel free to reach out to me at **iamanuragsaini0@gmail.com**
+  
 <!--Intro end-->
-I am a seasoned Blockchain Developer with extensive experience in developing and deploying blockchain applications. I am particularly skilled in smart contract development, blockchain ecosystem architecture, and backend technologies like Python, Django, and Node.js. My recent projects involved creating Ansible scripts for Hyperledger Fabric network automation and implementing event-driven architectures with microservices.
+**I am a Full-Stack Blockchain Engineer. Extensive work experience in IT and finance, specializing in blockchain, DLT, and cryptography. Proven track record in developing token economies, DApps, and traditional web2 projects. Skilled in ensuring secure, reliable, and user-friendly blockchain implementations that drive business success and innovation**
 
 <!--- stats & Trophy (start) -->
 <p align="center">
@@ -82,7 +80,7 @@ I am a seasoned Blockchain Developer with extensive experience in developing and
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,aws,cpp,css,docker,postgres,prisma,pug,scyllaDb,express,figma,firebase,redis,github,html,Python,TypeScript,linux,md,materialui,nginx,mongodb,mysql,nextjs,nodejs,postman,next.js,react,redux,tailwind,ts,vscode,kubernetes,Ansible,shell scripting,RabbitMQ,WebSocket,Golang,Rust,Ethereum,Hyperledger-Fabric,Quorum,Polygon,Polkadot  &perline=20" />
+    <img src="https://skillicons.dev/icons?i=git,aws,cpp,solidity,go,rust,python,scala,graphql,javascript,typescript,bash,nginx,docker,kubernetes,ansible,aws,cloudflare,azure,firebase,github,githubactions,heroku,gcp,vercel,netlify,angular,redis,kafka,bootstrap,django,express,fastapi,jquery,materialui,nodejs,figma,nextjs,npm,pug,rabbitmq,react,redux,tailwind,threejs,yarn,webpack,anaconda,adonis,opencv,postgres,postman,mongodb,mysql,figma,pytorch,tensorflow,terraform,bitbucket,babel,grafana,prometheus &perline=20" />
   </a>
 </p>
 
@@ -97,11 +95,14 @@ I am a seasoned Blockchain Developer with extensive experience in developing and
 
 <!--icons and links-->
 <p align="center">
-<a href="https://www.linkedin.com/in/iamanuragsaini/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="linkedin" height="50" width="50" /></a>
-<a href="https://twitter.com/iamanuragsaini" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234980676-61bfb021-ecc8-48f7-88e6-34c1b06c4a58.png" alt="twitter" height="50" width="50" /></a> 
-<a href="https://www.instagram.com/iamanuragsaini/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234981169-2dd1e58f-4b7e-468c-8213-034ba62156c3.png" alt="instagram" height="50" width="50" /></a>
-<a href="https://discordapp.com/users/1086478668899045539" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234982627-019fd336-6248-453c-9b05-97c13fd1d207.png" alt="discord" height="50" width="50" /></a>
-  
+<a href="https://www.linkedin.com/in/iamanuragsaini/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="linkedin" height="50" width="50" /></a>
+<a href="https://x.com/iamanuragsaini" target="blank"><img align="center" src="https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white" alt="x" height="50" width="50" /></a> 
+<a href="https://www.instagram.com/iamanuragsaini/" target="blank"><img align="center" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" alt="instagram" height="50" width="50" /></a>
+<a href="https://discordapp.com/users/1086478668899045539" target="blank"><img align="center" src="https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white" alt="discord" height="50" width="50" /></a>
+<a href="https://facebook.com/https://www.facebook.com/imanuragsaini" target="blank"><img align="center" src="https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white" alt="facebook" height="50" width="50" /></a>
+<a href="https://medium.com/@iamanuragsaini0" target="blank"><img align="center" src="https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white" alt="medium" height="50" width="50" /></a>
+<a href="https://www.reddit.com/user/AffectionateRock6947/" target="blank"><img align="center" src="https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white" alt="reddit" height="50" width="50" /></a>
+<a href="https://stackoverflow.com/users/23565655/anurag" target="blank"><img align="center" src="https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white" alt="stack-overflow" height="50" width="50" /></a>
 </p>
 
 
