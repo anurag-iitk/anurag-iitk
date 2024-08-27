@@ -57,6 +57,9 @@
 </tr>
 </table>
 <!--- stats (end) -->
+<p align="center">
+![profile-detail](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=anurag-iitk&theme=github_dark)
+</p>
 
 <!--- trophy (start) -->
 <div align=center>
@@ -84,8 +87,6 @@
 </p>
 
 ![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://github-readme-activity-graph.vercel.app/graph?username=anurag-iitk&theme=react-dark&hide_border=true&area=true)
-![profile-detail](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=anurag-iitk&theme=github_dark)
-
 
 <!-- Connect with me -->
 <!--h2 without bottom border-->
