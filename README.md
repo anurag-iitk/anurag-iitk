@@ -94,7 +94,7 @@
 </div>
 
 <!--icons and links-->
-<p>
+<p align="center">
 <a href="https://www.linkedin.com/in/iamanuragsaini/" target="blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="linkedin" height="50" width="50" /></a>
 <a href="https://x.com/iamanuragsaini" target="blank"><img src="https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white" alt="x" height="50" width="50" /></a> 
 <a href="https://www.instagram.com/iamanuragsaini/" target="blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" alt="instagram" height="50" width="50" /></a>
