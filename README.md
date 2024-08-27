@@ -57,8 +57,11 @@
 </tr>
 </table>
 <!--- stats (end) -->
+<p align="center">
 
-![profile-detail](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=anurag-iitk&theme=github_dark)
+  ![profile-detail](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=anurag-iitk&theme=github_dark)
+
+</p>
 
 <!--- trophy (start) -->
 <div align=center>
@@ -68,9 +71,10 @@
 </div>
 </p>        
 <!--- stats (end) -->
-
+<p align="center">
+  
 ![](https://github-contributor-stats.vercel.app/api?username=anurag-iitk&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
-
+</p>
 
 <!--h1 without bottom border-->
 <div id="user-content-toc">
