@@ -20,7 +20,7 @@
 <!--Intro start-->
 - 🔭 I’m currently working on **Cryptography, Golang, Rust, Python, TypeScript, Docker, Kubernetes, Ansible, Nodejs, Django, Redis, RabbitMQ, WebSocket, GraphQL, SQL, MongoDB, ScyllaDB, React.js, Next.js, Redux, Angular, Tailwind CSS**
 
-- 👯 I’m looking to collaborate on **Innovative projects that push the boundaries of technology, particularly in areas like blockchain, distributed systems, and AI**
+- 👯 I’m looking to collaborate on **Innovative projects that push the boundaries of technology, particularly in areas like blockchain, distributed systems, IOT and AI**
 
 - 🤝 I’m looking for help with: **Advanced cryptography, decentralized identity verification systems, and optimizing scalability in microservices and event-driven architectures**
   
