@@ -82,7 +82,7 @@
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,aws,cpp,solidity,go,rust,python,scala,graphql,javascript,typescript,bash,nginx,docker,kubernetes,ansible,aws,cloudflare,azure,firebase,github,githubactions,heroku,gcp,vercel,netlify,angular,redis,kafka,bootstrap,django,express,fastapi,jquery,materialui,nodejs,figma,nextjs,npm,pug,rabbitmq,react,redux,tailwind,threejs,yarn,webpack,anaconda,adonis,opencv,postgres,postman,mongodb,mysql,figma,pytorch,tensorflow,terraform,bitbucket,babel,grafana,prometheus &perline=20" />
+    <img src="https://skillicons.dev/icons?i=git,cpp,solidity,go,rust,python,scala,graphql,javascript,typescript,bash,nginx,docker,kubernetes,ansible,aws,cloudflare,azure,firebase,github,githubactions,heroku,gcp,vercel,netlify,angular,redis,kafka,bootstrap,django,express,fastapi,jquery,materialui,nodejs,figma,nextjs,npm,pug,rabbitmq,react,redux,tailwind,threejs,yarn,webpack,anaconda,adonis,opencv,postgres,postman,mongodb,mysql,figma,pytorch,tensorflow,terraform,bitbucket,babel,grafana,prometheus &perline=20" />
   </a>
 </p>
 
