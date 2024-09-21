@@ -2,6 +2,13 @@
 <!--horizontal divider(gradiant)-->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
+<!--profile visit count-->
+<div align="center">
+  
+[![](https://visitcount.itsvg.in/api?id=anurag-iitk&icon=3&color=6)](https://visitcount.itsvg.in)
+  
+</div>
+
 <!--h1 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
@@ -107,10 +114,3 @@
   <a href="https://www.reddit.com/user/AffectionateRock6947/" target="blank"><img src="https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white" alt="reddit" height="50" width="100" /></a>
   <a href="https://stackoverflow.com/users/23565655/anurag" target="blank"><img src="https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white" alt="stack-overflow" height="50" width="100" /></a>
 </p>
-
-<!--profile visit count-->
-<div align="center">
-  
-[![](https://visitcount.itsvg.in/api?id=anurag-iitk&icon=3&color=6)](https://visitcount.itsvg.in)
-  
-</div>
