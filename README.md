@@ -72,13 +72,6 @@
 <img  align="center"  src="https://github-contributor-stats.vercel.app/api?username=anurag-iitk&limit=5&theme=tokyonight&combine_all_yearly_contributions=true"/>
 </div>
 
-<!--h1 without bottom border-->
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h2 style="display: inline-block">Technologies That I Know👨🏻‍💻</h2></summary>
-  </ul>
-</div>
-
 <!-- Connect with me -->
 <!--h2 without bottom border-->
 <div id="user-content-toc">
