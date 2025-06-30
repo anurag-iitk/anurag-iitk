@@ -66,13 +66,6 @@
 <div align=center>
    <img  align="center"  src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=anurag-iitk&theme=github_dark"/>
 </div>
-
-<!--- trophy (start) -->
-<div align=center>
-  <a href="https://github.com/ryo-ma/github-profile-trophy" title="Go to Source">
-      <img align="center" width=84% src="https://github-profile-trophy.vercel.app/?username=anurag-iitk&theme=radical&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" alt="TROPHY" />
-    </a>
-</div>
 </p>        
 <!--- stats (end) -->
 <div align=center>
@@ -85,14 +78,6 @@
     <summary><h2 style="display: inline-block">Technologies That I Know👨🏻‍💻</h2></summary>
   </ul>
 </div>
-<!--tech stack icons-->
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,cpp,solidity,go,rust,python,scala,graphql,javascript,typescript,bash,nginx,docker,kubernetes,ansible,aws,cloudflare,azure,firebase,github,githubactions,heroku,gcp,vercel,netlify,angular,redis,kafka,bootstrap,django,express,fastapi,jquery,materialui,nodejs,figma,nextjs,npm,pug,rabbitmq,react,redux,tailwind,threejs,yarn,webpack,anaconda,adonis,opencv,postgres,postman,mongodb,mysql,figma,pytorch,tensorflow,terraform,bitbucket,babel,grafana,prometheus &perline=20" />
-  </a>
-</p>
-
-![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://github-readme-activity-graph.vercel.app/graph?username=anurag-iitk&theme=react-dark&hide_border=true&area=true)
 
 <!-- Connect with me -->
 <!--h2 without bottom border-->
