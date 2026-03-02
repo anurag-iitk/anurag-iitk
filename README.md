@@ -73,7 +73,7 @@
   <a href="https://www.instagram.com/iamanuragsaini/" target="blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" alt="instagram" height="50" width="100" /></a>
   <a href="https://discordapp.com/users/1086478668899045539" target="blank"><img src="https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white" alt="discord" height="50" width="100" /></a>
   <a href="https://facebook.com/https://www.facebook.com/imanuragsaini" target="blank"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white" alt="facebook" height="50" width="100" /></a>
-  <a href="https://medium.com/@iamanuragsaini0" target="blank"><img src="https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white" alt="medium" height="50" width="100" /></a>
+  <a href="https://medium.com/@iamanuragsaini" target="blank"><img src="https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white" alt="medium" height="50" width="100" /></a>
   <a href="https://www.reddit.com/user/AffectionateRock6947/" target="blank"><img src="https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white" alt="reddit" height="50" width="100" /></a>
   <a href="https://stackoverflow.com/users/23565655/anurag" target="blank"><img src="https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white" alt="stack-overflow" height="50" width="100" /></a>
 </p>
